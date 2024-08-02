@@ -4,7 +4,7 @@
 
 <h2>About me</h2>
 
-I am Simran Rana, currently pursuing Bsc cs . I am very keen to learn new technologies and use them to either create something useful or improve the existing softwares.   
+I am Simran Rana, I have completed my masters in Computer and Applications. I am very keen to learn new technologies and use them to either create something useful or improve the existing softwares.   
 ⚡ Fun fact: I love to connect with people and learn about their journey, it helps me to open up my mind for different perspectives on various domains.   
 💬 Ask me anything, I will be more than happy to help :D
 
